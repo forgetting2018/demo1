@@ -1,2 +1,2 @@
 <?php
-  echo "hellw word";
+  echo "hellow word!";
